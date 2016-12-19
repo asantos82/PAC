@@ -1,6 +1,6 @@
 # Instalation of PAC in Fedora25
 
-`user# wget https://netcologne.dl.sourceforge.net/project/pacmanager/pac-4.0/pac-4.5.5.7-all.deb`
+`user# wget http://netcologne.dl.sourceforge.net/project/pacmanager/pac-4.0/pac-4.5.5.7-2.x86_64.rpm`
 
 `user# sudo dnf install glib2-devel gtk2-devel vte-devel`
 
